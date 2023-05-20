@@ -1,0 +1,27 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body{
+    font-family: 'Crimson Text', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+  /*   background-color: rgb(236, 239, 239); */
+    }
+
+h1{
+font-size: 45px;
+
+}
+
+h2{
+    font-size: 30px;
+    }
+
+h3{
+font-size: 22px;
+}
+
+
