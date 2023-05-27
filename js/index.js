@@ -14,7 +14,7 @@ function generatePages() {
 		const html = template(item);
 
 		// 4. Escribir el HTML generado en archivos HTML separados utilizando el sistema de archivos
-		const filename = "../pages/" + item.pageName + ".html";
+		const filename = "../pages/" + item.URLName + ".html";
 		fs.writeFileSync(filename, html);
 	});
 }

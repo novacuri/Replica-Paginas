@@ -5,15 +5,29 @@
 }
 
 body{
-    font-family: 'Crimson Text', serif;
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Roboto', sans-serif;
-  /*   background-color: rgb(236, 239, 239); */
+  font-family: 'Crimson Text', serif;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto', sans-serif;
+    padding-left: 20%;
+    padding-right: 20%;
+
     }
+
+
+.azul{
+  background-color: #155ED9;
+  color: white;
+  }   
+
+.pink{
+  background-color: #d915bf;
+  color: white;
+  }  
 
 h1{
 font-size: 45px;
-
+/* font-family: ; */
 }
 
 h2{
